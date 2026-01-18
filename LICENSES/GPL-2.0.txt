@@ -1,0 +1,5 @@
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+NOTE: This file is a placeholder. Replace with the full, verbatim GPL v2 text from:
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt

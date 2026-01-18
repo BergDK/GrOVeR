@@ -1,0 +1,5 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+NOTE: This file is a placeholder. Replace with the full, verbatim GPL v3 text from:
+https://www.gnu.org/licenses/gpl-3.0.txt
