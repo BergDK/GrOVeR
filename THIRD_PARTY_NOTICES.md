@@ -72,30 +72,14 @@ See upstream documentation and the license text provided with shim.
 
 ## Runtime / userland components
 
-### Alpine Linux
+### MiniOS Toolbox
 Used as a lightweight recovery and maintenance operating system.
 
-Alpine Linux is a distribution composed of many packages, each under its own
-license (commonly GPL, BSD, or MIT). There is no single license covering the
+MiniOS Toolbox is a distribution composed of many packages, each under its own
+license (commonly GPL, LGPL, BSD, or MIT). There is no single license covering the
 entire distribution.
 
-Refer to Alpine Linux documentation and individual package metadata for details.
-
----
-
-### Xorg
-Used to provide a graphical display server within the Alpine runtime environment.
-
-License: MIT / X11 License.
-See `LICENSES/MIT.txt`.
-
----
-
-### Xfce
-Used as a lightweight desktop environment on top of Xorg.
-
-License: GNU General Public License version 2 or later (GPL-2.0+).
-See `LICENSES/GPL-2.0.txt`.
+Refer to MiniOS documentation and individual package metadata for details.
 
 ---
 
