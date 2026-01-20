@@ -48,7 +48,7 @@ selection and flexible chainloading.
 
 ### Runtime Environment
 
-**Alpine Linux**, combined with **Xorg** and **XFCE**, provides a lightweight,
+**MiniOS Toolbox**, provides a lightweight,
 user-friendly runtime environment for troubleshooting, diagnostics, downloads,
 and light interactive work.
 
@@ -69,9 +69,7 @@ This project is made possible by the following upstream projects:
 - rEFInd (GPL/BSD mix)
 - Ventoy (GPLv3)
 - shim (GPLv3 with exception)
-- Alpine Linux (various libre licenses)
-- Xorg (MIT/X11)
-- XFCE (GPLv2+)
+- MiniOS Toolbox (mixed licenses, see upstream project)
 
 All third‑party components remain under their respective original licenses.
 GrOVeR is an independent downstream project and is not affiliated with or
