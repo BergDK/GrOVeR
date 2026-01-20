@@ -52,8 +52,8 @@ selection and flexible chainloading.
 user-friendly runtime environment for troubleshooting, diagnostics, downloads,
 and light interactive work.
 
-GrOVeR uses persistent storage for Alpine Linux configuration and system state.
-A dedicated download directory resides on the DATA partition to separate user data
+GrOVeR uses persistent storage for MiniOS Toolbox configuration and system state.
+A dedicated download + persistence directory resides on the DATA partition to separate user data
 from boot infrastructure.
 
 Users should be aware that excessive write activity may increase USB media wear.
